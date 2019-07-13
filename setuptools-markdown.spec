@@ -4,7 +4,7 @@
 #
 Name     : setuptools-markdown
 Version  : 0.2
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/48/56/b5b3b690c293263a9664655d29751da2d14f4e381e06799cc77e87e1d74f/setuptools-markdown-0.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/48/56/b5b3b690c293263a9664655d29751da2d14f4e381e06799cc77e87e1d74f/setuptools-markdown-0.2.tar.gz
 Summary  : Use Markdown for your project description
